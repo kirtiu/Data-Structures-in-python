@@ -1,1 +1,1 @@
-# It contains the differnt type of Data-Structures-in python
+# It contains the different type of Data-Structures-in python
